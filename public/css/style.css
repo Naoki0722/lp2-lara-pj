@@ -767,7 +767,7 @@ img {
 
 
 #contact-page {
-  margin: 0 auto 20px;
+  margin: 15% auto ;
   /* text-align: center; */
   width: 60%;
 }
@@ -808,6 +808,10 @@ img {
   margin: 20px auto;
 }
 
+
+#finish {
+  margin: 20% 0;
+}
 
 #finish p {
   text-align: center;
